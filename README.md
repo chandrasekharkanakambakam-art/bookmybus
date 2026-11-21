@@ -1,23 +1,20 @@
 
-# Bus Booking System 🚌
+# 🚌 Bus Booking System
 
-A responsive bus booking web application built using React.js and Tailwind CSS.
+A responsive Bus Booking Application developed using React.js and Tailwind CSS.
 
 ## Features
-
-- Responsive Home Page
 - User Login and Registration
-- Search Buses
-- Available Bus Listings
-- Bus Route and Timing Details
+- Search Buses by Route
+- Available Buses
+- Bus Timings and Pricing
 - Seat Selection
 - Passenger Details
-- Booking Summary
-- My Bookings
 - Booking Confirmation
+- My Bookings
+- Responsive UI
 
 ## Technologies
-
 - React.js
 - JavaScript
 - Tailwind CSS
@@ -26,22 +23,17 @@ A responsive bus booking web application built using React.js and Tailwind CSS.
 
 ## Installation
 
-1. Clone the repository
+Clone the repository:
 
-   git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/chandrasekharkanakambakam-art/bus-booking-system.git
 
-2. Navigate to project folder
+Install dependencies:
 
-   cd bus-booking-system
+npm install
 
-3. Install dependencies
+Run the project:
 
-   npm install
-
-4. Start application
-
-   npm run dev
+npm run dev
 
 ## Developer
-
 Chandra Sekhar
